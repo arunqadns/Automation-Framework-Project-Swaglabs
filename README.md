@@ -17,7 +17,11 @@ Architected and implemented a professional-grade, end-to-end Hybrid Automation F
 * **Logging:** Log4j2
 
 
-## 📊 Extent Report Preview
-![Extent Report Preview](assets/extent.png)
+## 📊 Extent Automation Report
 
-[Click to View Full Report](https://arunqadns.github.io/Automation-Framework-Project-Swaglabs/ExtentReport.html)
+Here’s the detailed test execution report generated using **ExtentReports**:
+
+👉 [**Click here to view the full report**](https://arunqadns.github.io/arundev-t-vijayan/assets/extendreport.html)
+
+![Extent Report Preview](assets/extent-report.png)
+
