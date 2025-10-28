@@ -7,7 +7,7 @@ Architected and implemented a professional-grade, end-to-end Hybrid Automation F
 
 # 🚀 Hybrid Automation Framework Structure
 
-This project uses a robust **Hybrid Test Automation Framework** leveraging **Selenium**, **TestNG**, and **Maven**.
+
 
 ---
 
