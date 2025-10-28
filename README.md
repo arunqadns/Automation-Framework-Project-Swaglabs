@@ -3,7 +3,7 @@ Architected and implemented a professional-grade, end-to-end Hybrid Automation F
 
 ## 📁 Framework Folder structure
 
-<img width="1845" height="769" alt="image" src=https://raw.githubusercontent.com/arunqadns/arundev-t-vijayan/9384edd47bbdd9dc6e21c88bdeb8c9fedc37526e/assets/folderstructureproject1.png />
+<img width="1845" height="769" alt="image" src=https://raw.githubusercontent.com/arunqadns/arundev-t-vijayan/9081df3208cf69f558bad8be2b32241498c0d87d/assets/folderstructureproject1.png />
 
 
 ## 🛠️ Tech Stack
