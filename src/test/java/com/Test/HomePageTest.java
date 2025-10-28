@@ -22,7 +22,7 @@ public class HomePageTest extends BaseClass {
 	}
 
 	@Test(dataProvider = "validLoginData", dataProviderClass = DataProviders.class)
-	public void verifyOrangeHRMLogo(String username, String password) {
+	public void verifySwaglabsLogo(String username, String password) {
 		// ExtentManager.startTest("Home Page Verify Logo Test"); //--This has been
 		// implemented in TestListener
 		ExtentManager.logStep("Trying to Navigating to Home Page by entering username and password");
