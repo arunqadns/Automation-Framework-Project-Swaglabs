@@ -9,7 +9,7 @@ Architected and implemented a professional-grade, end-to-end Hybrid Automation F
     <img width="1845" height="769" alt="image" src="https://github.com/user-attachments/assets/94682149-c078-4407-bb92-e9cc610e5f55" />
 </a>
 
-
+<img width="1845" height="769" alt="image" src=https://raw.githubusercontent.com/arunqadns/arundev-t-vijayan/9384edd47bbdd9dc6e21c88bdeb8c9fedc37526e/assets/folderstructureproject.png />
 
 # 🚀 Hybrid Automation Framework Structure
 
