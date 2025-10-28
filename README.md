@@ -15,3 +15,9 @@ Architected and implemented a professional-grade, end-to-end Hybrid Automation F
 * **Design Ptterns:** Page Object Model (POM),Singleton Pattern
 * **Reporting:** Extent Reports & TestNG Listeners
 * **Logging:** Log4j2
+
+
+## 📊 Extent Report Preview
+![Extent Report Preview](assets/extent.png)
+
+[Click to View Full Report](https://arunqadns.github.io/Automation-Framework-Project-Swaglabs/ExtentReport.html)
