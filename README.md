@@ -23,5 +23,4 @@ Here’s the detailed test execution report generated using **ExtentReports**:
 
 👉 [**Click here to view the full report**](https://arunqadns.github.io/arundev-t-vijayan/assets/extendreport.html)
 
-![Extent Report Preview](assets/extent-report.png)
 
