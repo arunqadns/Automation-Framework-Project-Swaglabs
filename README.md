@@ -23,4 +23,19 @@ Here’s the detailed test execution report generated using **ExtentReports**:
 
 👉 [**Click here to view the full report**](https://arunqadns.github.io/arundev-t-vijayan/assets/extendreport.html)
 
+## 🧠 Project Summary
+
+While developing the **Automation Framework for SwagLabs**, I gained practical experience in building a real-time, scalable automation framework from scratch.
+
+### 💡 Key Learnings
+
+- Designed a **Hybrid Framework** using **POM** and **Data-Driven Testing**.  
+- Strengthened skills in **Selenium**, **Java**, **TestNG**, and **Maven**.  
+- Created **reusable utilities** for browser setup, waits, and reports.  
+- Integrated **ExtentReports** for detailed HTML reporting.  
+- Improved understanding of **Git/GitHub**, **API Testing**, and **OOPs** concepts.  
+
+### 🚀 Outcome
+
+This project enhanced my ability to design maintainable, **CI/CD-ready frameworks** and boosted my overall confidence as an **Automation Test Engineer**.
 
